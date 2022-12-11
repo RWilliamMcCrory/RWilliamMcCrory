@@ -7,7 +7,7 @@
 
 <h2>Certifications</h2>
 
-<a href="https://www.credly.com/badges/a946a4cf-566c-4119-8ffe-fea135d9952a?source=linked_in_profile">AZ-900</a>
+<a href="https://www.credly.com/badges/a946a4cf-566c-4119-8ffe-fea135d9952a?source=linked_in_profile">Azure Fundamentals (AZ-900)</a>
 
 <a href="https://www.credly.com/badges/b44f494e-5945-4cc7-951e-a22bea48fa18?source=linked_in_profile">CompTIA Security+</a>
 
