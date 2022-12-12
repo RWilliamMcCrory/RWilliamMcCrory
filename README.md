@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Security Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](url.com)
+- <b>Azure</b>
+  - [Azure Sentinel lab](https://github.com/RWilliamMcCrory/AzureSentinel)
 
 <h2>Certifications</h2>
 
