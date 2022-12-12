@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Security Projects:</h2>
 
 - <b>Azure</b>
-  - [Azure Sentinel lab](https://github.com/RWilliamMcCrory/AzureSentinel)
+  - [Azure Sentinel Lab](https://github.com/RWilliamMcCrory/AzureSentinel)
 
 <h2>Certifications</h2>
 
