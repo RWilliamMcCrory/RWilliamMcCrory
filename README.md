@@ -4,8 +4,10 @@
 
 - <b>Azure</b>
   - [Azure Sentinel Lab](https://github.com/RWilliamMcCrory/AzureSentinel)
+
 <b>Active Directory</b>
   - [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/RWilliamMcCrory/ActiveDirectory)
+
 <h2>Certifications</h2>
 
 <a href="https://www.credly.com/badges/a946a4cf-566c-4119-8ffe-fea135d9952a?source=linked_in_profile">Azure Fundamentals (AZ-900)</a>
