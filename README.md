@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Information Security Projects:</h2>
 
-- <b>Azure</b>
+<b>Azure</b>
   - [(SIEM) Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!](https://github.com/RWilliamMcCrory/AzureSentinel)
 
 <b>Active Directory</b>
   - [How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell](https://github.com/RWilliamMcCrory/ActiveDirectory)
+
+<b>Okta</b>
+  - [Okta SSO SAML Integration (Setting up Office 365 SSO)](https://github.com/RWilliamMcCrory/OktaSSO)
 
 <h2>Certifications</h2>
 
