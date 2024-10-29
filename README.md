@@ -5,6 +5,8 @@
 <b>Azure</b>
   - [(SIEM) Azure Sentinel: Windows EventLog Failed RDP Logins](https://github.com/RWilliamMcCrory/AzureSentinel)
 
+- [Onboarding Automation with Azure AD, MS Forms, and Power Automate](https://github.com/RWilliamMcCrory/Onboarding-Automation-with-Azure-AD-MS-Forms-and-Power-Automate)
+
 <b>Active Directory</b>
   - [Active Directory Bulk User Creation With PowerShell](https://github.com/RWilliamMcCrory/ActiveDirectory)
 
